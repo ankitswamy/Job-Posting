@@ -64,7 +64,7 @@ This project scrapes job postings from [karkidi.com](https://www.karkidi.com), p
 ## Live App
 
 Try the app live on Streamlit:  
-[https://job-posting-yducab8agogmktt2kyy6ix.streamlit.app/](https://job-posting-yducab8agogmktt2kyy6ix.streamlit.app/)
+[https://job-posting-fauppnrnccuqthzsmdpndw.streamlit.app/](https://job-posting-fauppnrnccuqthzsmdpndw.streamlit.app/)
 
 ---
 
