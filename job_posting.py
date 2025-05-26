@@ -13,7 +13,7 @@ import schedule
 import time
 # --------- User Preferences ---------
 user_preferences = {
-    "jerin.ds24@duk.ac.in": ["python", "machine learning", "data science"]
+    "ankit.ds24@duk.ac.in": ["python", "machine learning", "data science"]
 }
 
 # --------- Scraping ---------
@@ -111,8 +111,8 @@ def alert_users(df_new_jobs, user_prefs, from_email, email_password):
 # --------- Main pipeline ---------
 def main():
     # Use your own Gmail credentials here or load from environment variables
-    from_email = "jerin.ds24@duk.ac.in"
-    email_password = "**** **** **** ****"
+    from_email = "ankit.ds24@duk.ac.in"
+    email_password = "bsgx kcbm oyxn qbpj"
 
     # Scrape jobs (empty keyword for all jobs)
     df_jobs = scrape_karkidi_jobs(keyword="", pages=3)
