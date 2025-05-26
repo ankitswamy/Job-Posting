@@ -4,3 +4,4 @@ beautifulsoup4
 scikit-learn
 joblib
 requests
+schedule==1.2.1
