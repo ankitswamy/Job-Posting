@@ -28,3 +28,4 @@ if st.button("Scrape Jobs and Cluster"):
     for clust in sorted(df['Cluster'].unique()):
         st.subheader(f"Cluster {clust}")
         st.table(df[df['Cluster'] == clust][['Title', 'Company', 'Location']].head(5))
+
