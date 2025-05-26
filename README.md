@@ -72,7 +72,8 @@ Try the app live on Streamlit:
 
 - `app.py` — Streamlit app script for job scraping and clustering  
 - `job_posting_classification.py` — Core functions: scraping, preprocessing, clustering, email alerts  
-- `model/` — Saved clustering model and vectorizer  
+- `karkidi_model.pkl` - Saved clustering model
+-  `karkidi_vectorizer.pkl` - vectorizer  
 - `clustered_jobs.csv` — CSV file with clustered jobs  
 - `requirements.txt` — Python dependencies  
 
@@ -80,7 +81,7 @@ Try the app live on Streamlit:
 
 ## Contact
 
-Jerin John Chacko  
+Ankit Kumar
 Email: [ankit.ds24@duk.ac.in](mailto:ankit.ds24@duk.ac.in)  
 
 ---
